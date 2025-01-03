@@ -1,1 +1,1 @@
-https://github.com/ots-m/ono-tebe-nado
+https://github.com/ots-m/posmotri-v-okno-fd
