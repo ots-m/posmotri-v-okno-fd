@@ -153,8 +153,8 @@ ol {
   display: none;
   width: 15px;
   height: 15px;
-  background-color: #fff;
   margin: 1px auto;
+  background-color: #fff;
 }
 
 .search-form__checkbox:checked + .search-form__pseudo-checkbox::after {
